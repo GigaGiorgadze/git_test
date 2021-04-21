@@ -1,0 +1,1 @@
+This is GigaGiorgadze's first git project for Odin Project!
